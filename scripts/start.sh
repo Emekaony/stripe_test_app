@@ -4,4 +4,4 @@ export NVM_DIR="$HOME/.nvm"
 source "$NVM_DIR/nvm.sh"
 
 nvm use
-npx expo start
+npx expo start --tunnel
